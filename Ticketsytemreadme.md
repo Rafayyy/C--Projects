@@ -1,4 +1,5 @@
 When the customer reaches the ticket booth, he/ she see the menu on the screen. In this menu there are foursections. 
+
 1.Lahore
 2.Karachi
 3.Peshawar
