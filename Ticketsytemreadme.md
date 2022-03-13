@@ -1,4 +1,4 @@
-When the customer reaches the ticket booth, he/ she see the menu on the screen. In this menu there are foursections. 
+When the customer reaches the ticket booth, he/ she sees the menu on the screen. In this menu there are foursections. 
 
 1.Lahore
 2.Karachi
@@ -8,18 +8,26 @@ When the customer reaches the ticket booth, he/ she see the menu on the screen. 
 The programmer usually travels from Rawalpindi railway station to rest of the cities. For traveling to the following cities software engineer can select any one of the categories:
 
 1.Rawalpindi to Lahore
+
  a.Executive Class
- b.Lower A/Cc.Economy
+ b.Lower A/C
+ c.Economy
+ 
 2.Rawalpindi to Karachi
+
  a.Executive Class
  b.Lower A/C
  c.Economy
  d.First Class Sleeper
  e.Economy Sleeper
+ 
 3.Rawalpindi to Quetta
+
  a.First Class Sleeper
  b.Economy Sleeper
+ 
 4.Rawalpindi to Peshawar
+
  a.Executive Class
  b.Lower A/C
  c.Economy
